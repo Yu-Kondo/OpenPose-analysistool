@@ -1,4 +1,4 @@
-# OpenPose-analysistool
+# OpenPoseanalysistool
 ## OpenPoseで得られたjsonファイルを下記で解析
 ### 角度
 1) angle_automatic：指定した部位の角度をcsv，時系列のグラフとして出力
